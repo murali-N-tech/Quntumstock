@@ -1,0 +1,13 @@
+# Qiskit Core & Application Modules (Compatible Set)
+qiskit==1.1.0
+qiskit-algorithms==0.3.0
+qiskit-optimization==0.7.0
+qiskit-finance==0.4.1  # Corrected Version
+
+# Other Dependencies
+flask
+flask-cors
+yfinance
+numpy
+pandas
+scipy

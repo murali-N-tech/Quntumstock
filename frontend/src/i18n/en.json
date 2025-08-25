@@ -1,0 +1,29 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "stocks": "Stocks",
+    "crypto": "Crypto",
+    "optimizer": "Optimizer",
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register"
+  },
+  "home": {
+    "title": "Quantum-Powered Portfolio Optimization",
+    "subtitle": "Leverage the power of quantum computing to maximize your returns and minimize your risk.",
+    "ctaButton": "Optimize My Portfolio"
+  },
+  "auth": {
+    "loginTitle": "Login to Your Account",
+    "registerTitle": "Create a New Account",
+    "email": "Email Address",
+    "password": "Password",
+    "loading": "Loading...",
+    "loginButton": "Login",
+    "registerButton": "Register",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "registerLink": "Register",
+    "loginLink": "Login"
+  }
+}
